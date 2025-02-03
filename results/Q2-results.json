@@ -1,0 +1,988 @@
+[{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Blueberry Muffins",
+  "price": 4.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Fair Trade Coffee",
+  "price": 5.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Organic Bananas",
+  "price": 0.29,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 4
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Croissants",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Strawberries",
+  "price": 2.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Organic Apple Juice",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Pure Spring Water",
+  "price": 0.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Navel Oranges",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Sourdough Bread",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Bagels",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "StoreAddress": {
+    "houseNumber": "15",
+    "street": "Grafton Street",
+    "city": "Manchester",
+    "postcode": "M13 9NU"
+  },
+  "productName": "Tomatoes",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Spinach",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Sourdough Bread",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Green Tea",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Organic Apple Juice",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Strawberries",
+  "price": 2.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Chocolate Almond Milk",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Navel Oranges",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Croissants",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Tomatoes",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Blueberry Muffins",
+  "price": 4.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Pure Spring Water",
+  "price": 0.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Organic Bananas",
+  "price": 0.29,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 4
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "StoreAddress": {
+    "houseNumber": "1",
+    "street": "Lime Square",
+    "city": "Manchester",
+    "postcode": "M11 1ND"
+  },
+  "productName": "Fair Trade Coffee",
+  "price": 5.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Green Tea",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Navel Oranges",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Blueberry Muffins",
+  "price": 4.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Pure Spring Water",
+  "price": 0.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Strawberries",
+  "price": 2.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Spinach",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "StoreAddress": {
+    "houseNumber": "25",
+    "street": "Piccadilly Gardens",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "productName": "Bagels",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Pure Spring Water",
+  "price": 0.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Chocolate Almond Milk",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Spinach",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Tomatoes",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Sourdough Bread",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Blueberry Muffins",
+  "price": 4.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Bagels",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "StoreAddress": {
+    "houseNumber": "10",
+    "street": "Poplar Street",
+    "city": "Manchester",
+    "postcode": "M35 0HY"
+  },
+  "productName": "Navel Oranges",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Sourdough Bread",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Tomatoes",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 3
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Pure Spring Water",
+  "price": 0.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Fair Trade Coffee",
+  "price": 5.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Green Tea",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Chocolate Almond Milk",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Bagels",
+  "price": 3.49,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 2
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Spinach",
+  "price": 1.99,
+  "maincategory": "Fresh",
+  "subcategory": "Fruits and Vegetables",
+  "AverageCustomerRating": 1
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Organic Apple Juice",
+  "price": 2.49,
+  "maincategory": "Fresh",
+  "subcategory": "Drinks",
+  "AverageCustomerRating": 5
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "StoreAddress": {
+    "houseNumber": "40",
+    "street": "Wilbraham Road",
+    "city": "Manchester",
+    "postcode": "M21 0UA"
+  },
+  "productName": "Croissants",
+  "price": 3.99,
+  "maincategory": "Fresh",
+  "subcategory": "Bakery",
+  "AverageCustomerRating": 5
+}]

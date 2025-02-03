@@ -1,0 +1,676 @@
+[{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208caa"
+  },
+  "productName": "Pure Spring Water",
+  "stockLevel": 10
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc2"
+  },
+  "productName": "Bagels",
+  "stockLevel": 12
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc0"
+  },
+  "productName": "Blueberry Muffins",
+  "stockLevel": 14
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb5"
+  },
+  "productName": "Strawberries",
+  "stockLevel": 19
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb6"
+  },
+  "productName": "Navel Oranges",
+  "stockLevel": 19
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc1"
+  },
+  "productName": "Croissants",
+  "stockLevel": 24
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cad"
+  },
+  "productName": "Green Tea",
+  "stockLevel": 25
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cad"
+  },
+  "productName": "Green Tea",
+  "stockLevel": 26
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbf"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "stockLevel": 31
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc2"
+  },
+  "productName": "Bagels",
+  "stockLevel": 31
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cac"
+  },
+  "productName": "Fair Trade Coffee",
+  "stockLevel": 32
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cae"
+  },
+  "productName": "Chocolate Almond Milk",
+  "stockLevel": 34
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc2"
+  },
+  "productName": "Bagels",
+  "stockLevel": 36
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb7"
+  },
+  "productName": "Spinach",
+  "stockLevel": 36
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cab"
+  },
+  "productName": "Organic Apple Juice",
+  "stockLevel": 38
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb4"
+  },
+  "productName": "Organic Bananas",
+  "stockLevel": 46
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb6"
+  },
+  "productName": "Navel Oranges",
+  "stockLevel": 47
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc0"
+  },
+  "productName": "Blueberry Muffins",
+  "stockLevel": 49
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208caa"
+  },
+  "productName": "Pure Spring Water",
+  "stockLevel": 50
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb5"
+  },
+  "productName": "Strawberries",
+  "stockLevel": 52
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208caa"
+  },
+  "productName": "Pure Spring Water",
+  "stockLevel": 52
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc0"
+  },
+  "productName": "Blueberry Muffins",
+  "stockLevel": 56
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb7"
+  },
+  "productName": "Spinach",
+  "stockLevel": 58
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbe"
+  },
+  "productName": "Sourdough Bread",
+  "stockLevel": 58
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cae"
+  },
+  "productName": "Chocolate Almond Milk",
+  "stockLevel": 64
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208caa"
+  },
+  "productName": "Pure Spring Water",
+  "stockLevel": 67
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc1"
+  },
+  "productName": "Croissants",
+  "stockLevel": 68
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbf"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "stockLevel": 69
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbe"
+  },
+  "productName": "Sourdough Bread",
+  "stockLevel": 69
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb6"
+  },
+  "productName": "Navel Oranges",
+  "stockLevel": 70
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbf"
+  },
+  "productName": "Chocolate Chip Cookies",
+  "stockLevel": 71
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cab"
+  },
+  "productName": "Organic Apple Juice",
+  "stockLevel": 73
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb8"
+  },
+  "productName": "Tomatoes",
+  "stockLevel": 75
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cac"
+  },
+  "productName": "Fair Trade Coffee",
+  "stockLevel": 80
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cab"
+  },
+  "productName": "Organic Apple Juice",
+  "stockLevel": 80
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed0"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecb"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb6"
+  },
+  "productName": "Navel Oranges",
+  "stockLevel": 82
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb7"
+  },
+  "productName": "Spinach",
+  "stockLevel": 83
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb8"
+  },
+  "productName": "Tomatoes",
+  "stockLevel": 83
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbe"
+  },
+  "productName": "Sourdough Bread",
+  "stockLevel": 85
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cac"
+  },
+  "productName": "Fair Trade Coffee",
+  "stockLevel": 85
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb7"
+  },
+  "productName": "Spinach",
+  "stockLevel": 85
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb8"
+  },
+  "productName": "Tomatoes",
+  "stockLevel": 86
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb4"
+  },
+  "productName": "Organic Bananas",
+  "stockLevel": 86
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb5"
+  },
+  "productName": "Strawberries",
+  "stockLevel": 87
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cbe"
+  },
+  "productName": "Sourdough Bread",
+  "stockLevel": 89
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc2"
+  },
+  "productName": "Bagels",
+  "stockLevel": 93
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc1"
+  },
+  "productName": "Croissants",
+  "stockLevel": 94
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed2"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecd"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cb8"
+  },
+  "productName": "Tomatoes",
+  "stockLevel": 96
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cae"
+  },
+  "productName": "Chocolate Almond Milk",
+  "stockLevel": 96
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed1"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecc"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208caa"
+  },
+  "productName": "Pure Spring Water",
+  "stockLevel": 97
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed3"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ece"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cad"
+  },
+  "productName": "Green Tea",
+  "stockLevel": 98
+},
+{
+  "_id": {
+    "$oid": "6578dab87a71bf5dbd209ed4"
+  },
+  "storeID": {
+    "$oid": "6578dab87a71bf5dbd209ecf"
+  },
+  "productID": {
+    "$oid": "6578d9007a71bf5dbd208cc0"
+  },
+  "productName": "Blueberry Muffins",
+  "stockLevel": 100
+}]

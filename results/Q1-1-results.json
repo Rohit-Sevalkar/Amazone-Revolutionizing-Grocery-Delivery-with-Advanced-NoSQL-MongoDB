@@ -1,0 +1,13 @@
+{
+    "customer_id": {
+       "$oid": "657b9eb41f0911c93f27e17b"
+    },
+    "product_ordered": "Pure Spring Water",
+    "partner_name": "Maria Garcia",
+    "estimated_distance": "111.24307588194671 kms",
+    "ETA": "14:37 PM",
+    "product_cost": 0.99,
+    "product_cost_original": 2.3200000000000003,
+    "product_main_category": "Fresh",
+    "product_origin": "Niger"
+ }

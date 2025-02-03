@@ -1,0 +1,13 @@
+{
+    "customer_id": {
+       "$oid": "657b9eb41f0911c93f27e185"
+    },
+    "product_ordered": "Sourdough Bread",
+    "partner_name": "Chris Brown",
+    "estimated_distance": "0.8911930906319311 kms",
+    "ETA": "3:40 AM",
+    "product_cost": 3.99,
+    "product_cost_original": 7.04,
+    "product_main_category": "Fresh",
+    "product_origin": "France"
+ }

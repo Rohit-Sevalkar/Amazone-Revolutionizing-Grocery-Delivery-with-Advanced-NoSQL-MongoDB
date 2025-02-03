@@ -1,0 +1,28 @@
+[{
+  "_id": "Mobile Phone",
+  "totalSales": 3736
+},
+{
+  "_id": "CD",
+  "totalSales": 3695
+},
+{
+  "_id": "Book",
+  "totalSales": 3594
+},
+{
+  "_id": "Home Appliance",
+  "totalSales": 3449
+},
+{
+  "_id": "Drinks",
+  "totalSales": 1834
+},
+{
+  "_id": "Bakery",
+  "totalSales": 1757
+},
+{
+  "_id": "Fruits and Vegetables",
+  "totalSales": 1709
+}]
